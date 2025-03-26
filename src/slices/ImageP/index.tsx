@@ -12,7 +12,7 @@ export type ImagePProps = SliceComponentProps<Content.ImagePSlice>;
  * Component for "ImageP" Slices.
  */
 const ImageP: FC<ImagePProps> = ({ slice }) => {
-  return <PrismicNextImage field={slice.primary.imagetest} alt={"test"} />;
+  return <PrismicNextImage field={slice.primary.imagetest} alt="" />;
 };
 
 export default ImageP;
