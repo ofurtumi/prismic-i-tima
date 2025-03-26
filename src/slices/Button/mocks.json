@@ -1,0 +1,18 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"key": "ef8de378-f3f8-4915-9511-325cea93e01c",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "fallen"
+				}
+			}
+		},
+		"items": []
+	}
+]

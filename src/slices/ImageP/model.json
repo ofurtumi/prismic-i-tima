@@ -1,0 +1,27 @@
+{
+  "id": "image_p",
+  "type": "SharedSlice",
+  "name": "ImageP",
+  "description": "ImageP",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "imagetest": {
+          "type": "Image",
+          "config": {
+            "label": "imagetest",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

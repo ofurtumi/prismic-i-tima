@@ -1,0 +1,8 @@
+.link {
+  width: fit-content;
+  display: flex;
+  padding: 1rem 0.5rem;
+  border-radius: 0.5rem;
+  justify-content: center;
+  background-color: red;
+}
